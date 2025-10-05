@@ -4,42 +4,31 @@ Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, ten
 
 <p align="left">
 <p align="center">
+  <!-- YouTube -->
   <a href="https://www.youtube.com/@Denki_xs?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" title="Inscreva-se no meu canal">
+    <img
+      alt="YouTube"
+      title="Inscreva-se no meu canal"
+      src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
+      width="120"
+      style="background-color:#FF0000; border-radius:8px; padding:10px;"
+    />
   </a>
+
+  <!-- Espaçamento -->
+  <span style="margin: 0 10px;"></span>
+
+  <!-- Instagram -->
   <a href="https://www.instagram.com/denki_xs/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Meu Instagram">
+    <img
+      alt="Instagram"
+      title="Meu Instagram"
+      src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+      width="120"
+      style="background-color:#E1306C; border-radius:8px; padding:10px;"
+    />
   </a>
 </p>
-
-    <a href="https://www.youtube.com/@Denki_xs?sub_confirmation=1" target="_blank">
-        <img 
-            alt="YouTube"
-            title="Inscreva-se no meu canal"
-            src="https://custom-icon-badges.demolab.com/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=C4302B"
-        />
-    </a>
-    <a href="https://www.instagram.com/denki_xs/" target="_blank">
-        <img 
-            alt="Instagram"
-            title="Meu Instagram"
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
