@@ -11,12 +11,12 @@ Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, ten
       title="Inscreva-se no meu canal"
       src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
       width="120"
-      style="background-color:#FF0000; border-radius:8px; padding:10px;"
+      style="background-color:#FFF; border-radius:8px; padding:5px;"
     />
   </a>
 
   <!-- Espaçamento -->
-  <span style="margin: 0 10px;"></span>
+  <span style="margin: 0 0px;"></span>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/denki_xs/" target="_blank">
@@ -25,7 +25,7 @@ Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, ten
       title="Meu Instagram"
       src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
       width="120"
-      style="background-color:#E1306C; border-radius:8px; padding:10px;"
+      style="background-color:#E1306C; border-radius:8px; padding:5px;"
     />
   </a>
 </p>
