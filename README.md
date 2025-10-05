@@ -21,7 +21,7 @@ Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, ten
         <img 
             alt="Discord" 
             title="Entre no meu servidor" 
-            src="https://custom-icon-badges.demolab.com/badge/Discord-6726ff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4c00ff"
+            src="https://custom-icon-badges.demolab.com/badge/Discord-6726ff?style=for-the-badge&logo=discord&logoColor=white&labelColor=4c00ff"
             />
         </a>
     <a href="https://github.com/Larissakich?tab=followers">
