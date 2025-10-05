@@ -3,37 +3,39 @@
 Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, tenho 18 anos e moro no Espirito Santo. Estou cursando o 3º ano do ensino médio, com curso técnico em informática. Sou apaixonado em tecnologia deste quando era criança, eu criava pequenos projetos robóticos com peças de briquedos elétricos que eu ganhava. Hoje estou me aprofundando mais na área da programação por falta de material, mas também gosto muito de codar. 
 
 <p align="left">
-<p align="center">
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@Denki_xs?sub_confirmation=1" target="_blank">
-    <img
-      alt="YouTube"
-      title="Inscreva-se no meu canal"
-      src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
-      width="120"
-      style="background-color:#FFF; border-radius:8px; padding:5px;"
-    />
-  </a>
-
-  <!-- Espaçamento -->
-  <span style="margin: 0 0px;"></span>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/denki_xs/" target="_blank">
-    <img
-      alt="Instagram"
-      title="Meu Instagram"
-      src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
-      width="120"
-      style="background-color:#E1306C; border-radius:8px; padding:5px;"
-    />
-  </a>
-</p>
+    <a href="https://www.youtube.com/@Denki_xs?sub_confirmation=1">
+        <img 
+            alt="Youtube" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube-color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.instagram.com/denki_xs/" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Me segue no instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"
+        />
+    </a>
+    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Larissakich?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -151,7 +153,7 @@ Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, ten
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
