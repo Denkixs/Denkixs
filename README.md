@@ -3,6 +3,29 @@
 Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, tenho 18 anos e moro no Espirito Santo. Estou cursando o 3º ano do ensino médio, com curso técnico em informática. Sou apaixonado em tecnologia deste quando era criança, eu criava pequenos projetos robóticos com peças de briquedos elétricos que eu ganhava. Hoje estou me aprofundando mais na área da programação por falta de material, mas também gosto muito de codar. 
 
 <p align="center">
+<a class="item-contato" href="https://www.instagram.com/bella.lyss/" target="_blank">
+        <i class="fa-brands fa-instagram"></i>
+        <span>@bella.lyss</span>
+      </a>
+    </li>
+    <li>
+      <a class="item-contato" href="https://www.twitch.tv/Lissyanna" target="_blank">
+        <i class="fa-brands fa-twitch"></i>
+        <span>@Lissyanna</span>
+      </a>
+    </li>
+    <li>
+      <a class="item-contato" href="https://youtube.com/@Lissyanna" target="_blank">
+        <i class="fa-brands fa-youtube"></i>
+        <span>@Lissyanna</span>
+      </a>
+    </li>
+    <li>
+      <a class="item-contato" href="https://discord.com/invite/vefKeSu2kG" target="_blank">
+        <i class="fa-brands fa-discord"></i>
+        <span>Discord</span>
+      </a>
+    </li>
   <a href="https://www.youtube.com/@Denki_xs?sub_confirmation=1" target="_blank">
     <img 
       alt="YouTube" 
@@ -17,23 +40,6 @@ Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, ten
       src="https://custom-icon-badges.demolab.com/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"
     />
   </a>
-</p>
-
-<p align="left">
-    <a href="https://www.youtube.com/@Denki_xs?sub_confirmation=1" target="_blank">
-    <img 
-        alt="YouTube" 
-        title="Inscreva-se no meu canal" 
-        src="https://custom-icon-badges.demolab.com/badge/Inscreva%20se-E05D44?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CE4630"
-    />
-</a>
-    <a href="https://www.instagram.com/denki_xs/" target="_blank">
-        <img 
-            alt="Instagram" 
-            title="Me segue no instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"
-        />
-    </a>
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
