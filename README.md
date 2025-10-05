@@ -5,9 +5,9 @@ Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, ten
 <p align="left">
     <a href="https://www.youtube.com/@Denki_xs?sub_confirmation=1" target="_blank">
         <img 
-            alt="YouTube" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/badge/YouTube-Inscreva-se-E05D44?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CE4630"
+            alt="YouTube"
+            title="Inscreva-se no meu canal"
+            src="https://custom-icon-badges.demolab.com/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=C4302B"
         />
     </a>
     <a href="https://www.instagram.com/denki_xs/" target="_blank">
