@@ -3,6 +3,22 @@
 Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, tenho 18 anos e moro no Espirito Santo. Estou cursando o 3º ano do ensino médio, com curso técnico em informática. Sou apaixonado em tecnologia deste quando era criança, eu criava pequenos projetos robóticos com peças de briquedos elétricos que eu ganhava. Hoje estou me aprofundando mais na área da programação por falta de material, mas também gosto muito de codar. 
 
 <p align="left">
+<div style="display: flex; gap: 8px;">
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@Denki_xs?sub_confirmation=1" target="_blank" 
+     style="display: inline-flex; align-items: center; background-color: #FF0000; color: white; border-radius: 6px; padding: 6px 12px; text-decoration: none; font-family: Arial, sans-serif; font-weight: bold;">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" style="height: 100%; max-height: 24px; margin-right: 6px;">
+    YOUTUBE
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/denki_xs/" target="_blank" 
+     style="display: inline-flex; align-items: center; background-color: #E1306C; color: white; border-radius: 6px; padding: 6px 12px; text-decoration: none; font-family: Arial, sans-serif; font-weight: bold;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" style="height: 100%; max-height: 24px; margin-right: 6px;">
+    INSTAGRAM
+  </a>
+</div>
+
     <a href="https://www.youtube.com/@Denki_xs?sub_confirmation=1" target="_blank">
         <img 
             alt="YouTube"
