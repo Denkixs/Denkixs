@@ -14,7 +14,7 @@ Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, ten
     <img 
       alt="Instagram" 
       title="Meu Instagram" 
-      src="https://custom-icon-badges.demolab.com/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"
+      src="https://custom-icon-badges.demolab.com/badge/Instagram-ff00bb?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ff0077"
     />
   </a>
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
