@@ -7,7 +7,7 @@ Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, ten
         <img 
             alt="YouTube" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/badge/youtube-color=E05D44&label=Inscreva-se&logo=youtube&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/badge/YouTube-Inscreva-se-E05D44?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CE4630"
         />
     </a>
     <a href="https://www.instagram.com/denki_xs/" target="_blank">
