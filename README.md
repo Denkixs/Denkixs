@@ -3,23 +3,23 @@
 Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, tenho 18 anos e moro no Espirito Santo. Estou cursando o 3º ano do ensino médio, com curso técnico em informática. Sou apaixonado em tecnologia deste quando era criança, eu criava pequenos projetos robóticos com peças de briquedos elétricos que eu ganhava. Hoje estou me aprofundando mais na área da programação por falta de material, mas também gosto muito de codar. 
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@Denki_xs?sub_confirmation=1">
         <img 
-            alt="youtube subscribers" 
+            alt="YouTube" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@Denki_xs">
+    <a href="https://www.instagram.com/denki_xs/">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
+            alt="Instagram"
+            title="Meu instagram"
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCDKxzTz4cU1iTTbeh4jbm8w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
+            alt="estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
