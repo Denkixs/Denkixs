@@ -3,6 +3,7 @@
 Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, tenho 18 anos e moro no Espirito Santo. Estou cursando o 3º ano do ensino médio, com curso técnico em informática. Sou apaixonado em tecnologia deste quando era criança, eu criava pequenos projetos robóticos com peças de briquedos elétricos que eu ganhava. Hoje estou me aprofundando mais na área da programação por falta de material, mas também gosto muito de codar. 
 
 <p align="center">
+  <link rel="icon" type="image/png" href="img/icon.png" />
 <a class="item-contato" href="https://www.instagram.com/bella.lyss/" target="_blank">
         <i class="fa-brands fa-instagram"></i>
         <span>@bella.lyss</span>
