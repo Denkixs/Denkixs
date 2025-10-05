@@ -17,13 +17,13 @@ Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, ten
       src="https://custom-icon-badges.demolab.com/badge/Instagram-ff00bb?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ff0077"
     />
   </a>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://discord.gg/4Dq2cFdD">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+            alt="Discord" 
+            title="Entre no meu servidor" 
+            src="https://custom-icon-badges.demolab.com/badge/Discord-6726ff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4c00ff"
+            />
+        </a>
     <a href="https://github.com/Larissakich?tab=followers">
         <img 
             alt="Seguidores" 
