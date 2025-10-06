@@ -17,11 +17,11 @@ Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, ten
         src="https://custom-icon-badges.demolab.com/badge/Instagram-ff00bb?style=for-the-badge&logo=instagram1&logoColor=white&labelColor=ff0077"
         />
     </a>
-        <a href="https://www.youtube.com/@Denki_xs?sub_confirmation=1" target="_blank">
+        <a href="https://www.twitch.tv/denki_xs?sub_confirmation=1" target="_blank">
         <img 
         alt="Twitch"
         title="Me segue na twitch"
-        src="https://custom-icon-badges.demolab.com/badge/Twitch-fc0303?style=for-the-badge&logo=twitch&logoColor=white&labelColor=e00000"
+        src="https://custom-icon-badges.demolab.com/badge/Twitch-8000ff?style=for-the-badge&logo=twitch&logoColor=white&labelColor=6500c9"
         />
     </a>
     <a href="https://discord.gg/4Dq2cFdD" target="_blank">
