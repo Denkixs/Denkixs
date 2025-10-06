@@ -35,7 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Denkixs&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Denkixs&locale=pt-br&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 
-  <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1vMHkweWRzNHkxOGV4bHl3cnFvZWhicXdhZXFsZndvbmp6NHdodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H83c2x0NWvFhtgK4V2/giphy.gif"  />
+  <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21zaDVucWQ2M2dkNHQ4c2t3OWJydmNlcTZzN2s1N28xeHg1ZDBhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzWxTUiXRQDYc/giphy.gif"  />
 
   <img src="https://github-profile-trophy.vercel.app?username=Denkixs&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
