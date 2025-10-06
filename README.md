@@ -1,4 +1,4 @@
-# Denki
+# 🇩 🇪 🇳 🇰 🇮
 
 Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, tenho 18 anos e moro no Espirito Santo. Estou cursando o 3º ano do ensino médio, com curso técnico em informática. Sou apaixonado em tecnologia deste quando era criança, eu criava pequenos projetos robóticos com peças de briquedos elétricos que eu ganhava. Hoje estou me aprofundando mais na área da programação por falta de material, mas também gosto muito de codar. 
 
@@ -13,7 +13,7 @@ Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, ten
   <a href="https://www.instagram.com/denki_xs/" target="_blank">
     <img 
       alt="Instagram" 
-      title="Meu Instagram" 
+      title="Me siga no instagram" 
       src="https://custom-icon-badges.demolab.com/badge/Instagram-ff00bb?style=for-the-badge&logo=instagram1&logoColor=white&labelColor=ff0077"
     />
   </a>
@@ -24,6 +24,13 @@ Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, ten
             src="https://custom-icon-badges.demolab.com/badge/Discord-6726ff?style=for-the-badge&logo=discord&logoColor=white&labelColor=4c00ff"
             />
         </a>
+    <a href="https://github.com/Denkixs?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Denkixs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
