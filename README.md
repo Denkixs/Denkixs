@@ -15,7 +15,7 @@
   <a href="https://discord.com/invite/4Dq2cFdD" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
   </a>
-  <a href="https://denki.xs.ofc@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=denki.xs.ofc@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -46,7 +46,8 @@
   <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFiYzBpY21tODJyZjZnd3Z5ams5Z2dmbzVqdXZ5NTlqejU2MnFnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3P6rLkx3IWvjq/giphy.gif"  />
 
 
-  <img src="https://github-profile-trophy.vercel.app?username=Denkixs&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Denkixs&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4&border-radius=10"  
+  height="150" alt="trophy graph"  />
 </div>
 
 ###
