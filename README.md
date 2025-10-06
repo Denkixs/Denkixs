@@ -34,6 +34,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Denkixs&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1&custom_title=Estat%C3%ADsticas" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Denkixs&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Denkixs&locale=pt-br&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  
   <img src="https://github-profile-trophy.vercel.app?username=Denkixs&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
