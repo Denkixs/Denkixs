@@ -1,4 +1,4 @@
-<h3 align="center">Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, tenho 18 anos e moro no Espirito Santo. Estou cursando o 3º ano do ensino médio, com curso técnico em informática. Sou apaixonado em tecnologia deste quando era criança, eu criava pequenos projetos robóticos com peças de brinquedos elétricos que eu ganhava. Hoje estou me aprofundando mais na área da programação por falta de material, descobri que gosto de programação também.
+<h3 align="center">Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, tenho 18 anos e moro no Espirito Santo. Estou cursando o 3º ano do ensino médio, com curso técnico em informática. Sou apaixonado em tecnologia deste quando era criança, eu criava pequenos projetos robóticos com peças de brinquedos elétricos que eu ganhava. Hoje estou me aprofundando mais na área da programação por falta de material, mas descobri que gosto de programação também.
 </h3>
 
 ###
