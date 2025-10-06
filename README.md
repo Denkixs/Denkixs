@@ -5,30 +5,30 @@ Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, ten
 <p align="center">
     <a href="https://www.youtube.com/@Denki_xs?sub_confirmation=1" target="_blank">
         <img 
-            alt="YouTube"
-            title="Inscreva-se no meu canal"
-            src="https://custom-icon-badges.demolab.com/badge/YouTube-fc0303?style=for-the-badge&logo=video&logoColor=white&labelColor=e00000"
+        alt="YouTube"
+        title="Inscreva-se no meu canal"
+        src="https://custom-icon-badges.demolab.com/badge/YouTube-fc0303?style=for-the-badge&logo=video&logoColor=white&labelColor=e00000"
         />
     </a>
-  <a href="https://www.instagram.com/denki_xs/" target="_blank">
-    <img 
-      alt="Instagram" 
-      title="Me siga no instagram" 
-      src="https://custom-icon-badges.demolab.com/badge/Instagram-ff00bb?style=for-the-badge&logo=instagram1&logoColor=white&labelColor=ff0077"
-    />
-  </a>
-    <a href="https://discord.gg/4Dq2cFdD">
+    <a href="https://www.instagram.com/denki_xs/" target="_blank">
         <img 
-            alt="Discord" 
-            title="Entre no meu servidor" 
-            src="https://custom-icon-badges.demolab.com/badge/Discord-6726ff?style=for-the-badge&logo=discord&logoColor=white&labelColor=4c00ff"
-            />
-        </a>
-    <a href="https://github.com/Denkixs?tab=followers">
+        alt="Instagram" 
+        title="Me siga no instagram" 
+        src="https://custom-icon-badges.demolab.com/badge/Instagram-ff00bb?style=for-the-badge&logo=instagram1&logoColor=white&labelColor=ff0077"
+        />
+    </a>
+    <a href="https://discord.gg/4Dq2cFdD" target="_blank">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/Github?color=000&labelColor=000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        alt="Discord" 
+        title="Entre no meu servidor" 
+        src="https://custom-icon-badges.demolab.com/badge/Discord-6726ff?style=for-the-badge&logo=discord&logoColor=white&labelColor=4c00ff"
+        />
+    </a>
+    <a href="https://github.com/Denkixs?tab=followers" target="_blank">
+        <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://custom-icon-badges.demolab.com/badge/Seguidores-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"
         />
     </a>
 </p>
