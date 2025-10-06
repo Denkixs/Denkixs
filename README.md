@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Denkixs.Denkixs&"  />
+  <img src="https://visitantes-badge.laobi.icu/badge?page_id=Denkixs.Denkixs&"  />
 </div>
 
 <h3 align="center">Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, tenho 18 anos e moro no Espirito Santo. Estou cursando o 3º ano do ensino médio, com curso técnico em informática. Sou apaixonado em tecnologia deste quando era criança, eu criava pequenos projetos robóticos com peças de brinquedos elétricos que eu ganhava. Hoje estou me aprofundando mais na área da programação por falta de material, mas também gosto muito de codar.</h3>
