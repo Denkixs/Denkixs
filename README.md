@@ -37,6 +37,7 @@
 
   <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z0M2NsZXl5dTMwcjZyOG9haGU0NHZiODF5MDV3bW05aDh2NWVpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MBgdGZh70DbViIZlgr/giphy.gif"  />
 
+
   <img src="https://github-profile-trophy.vercel.app?username=Denkixs&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
