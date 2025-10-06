@@ -28,7 +28,7 @@ Me chamo Gabriel Renato Batista Monteiro Leal, sim... eu sei... nome grande, ten
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Denkixs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Denkixs?color=000&labelColor=000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
