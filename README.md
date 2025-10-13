@@ -46,10 +46,6 @@
 
   <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFiYzBpY21tODJyZjZnd3Z5ams5Z2dmbzVqdXZ5NTlqejU2MnFnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3P6rLkx3IWvjq/giphy.gif"  />
 
-
-  <img src="https://github-profile-trophy.vercel.app?username=Denkixs&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
 ###
 
 <picture>
